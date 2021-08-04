@@ -4,19 +4,23 @@
 
 ### Windows
 
-No se requieren módulos adicionales
+>py.exe -m pip3 install -r win-requirements.txt
 
 ### MacOS
 
-sudo pip3 install pyobjc-framework-Quartz
-sudo pip3 install pyobjc-core
-sudo pip3 install pyobjc
-sudo pip3 install pyautogui
+>pip3 install -r macos-requirements.txt
 
 ### Linux
 
-sudo pip3 install python3-xlib
-sudo apt install scrot
-sudo apt install python3-tk
-sudo apt install python3-dev
-sudo pip3 install pyautogui
+>sudo apt install scrot python3-tk python3-dev
+
+>pip3 install -r linux-requirements.txt
+
+
+## Uso
+
+>python3 anti-idle.py
+
+### Demo
+
+
