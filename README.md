@@ -1,5 +1,9 @@
 # Anti-Idle
 
+## Objetivo
+
+Ejercicio práctico realizado con la finalidad de darle solución al proyecto propuesto [Looking Busy - Chapter 18: Controlling the Keyboard and Mouse with GUI Atomation - Automate the Boring Stuff with Python, 1st Edition](https://nostarch.com/automatestuff2)
+
 ## Instalación
 
 ### Windows
@@ -23,4 +27,4 @@
 
 ### Demo
 
-
+![Demo](images/demo.gif)
