@@ -50,7 +50,7 @@ def main():
                 if moveMouseTimer is None:
                     moveMouseTimer = RepeatedTimer(14, moveMouse) # Timer creation
                 elif not moveMouseTimer.is_running:
-                    moveMouseTimer.start() # Stating Timer
+                    moveMouseTimer.start() # Starting Timer
             elif moveMouseTimer.is_running:
                 if y != middleHeight or x < leftXLimit or x > rightXLimit:
                     moveMouseTimer.stop() # Stopping Timer
