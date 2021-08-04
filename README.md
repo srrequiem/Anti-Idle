@@ -1,17 +1,20 @@
 # Anti-Idle
 
-## Windows
+## Instalación
 
-No se tiene requieren módulos
+### Windows
 
-## MacOS
+No se requieren módulos adicionales
+
+### MacOS
 
 sudo pip3 install pyobjc-framework-Quartz
 sudo pip3 install pyobjc-core
 sudo pip3 install pyobjc
 sudo pip3 install pyautogui
 
-## Linux
+### Linux
+
 sudo pip3 install python3-xlib
 sudo apt install scrot
 sudo apt install python3-tk
