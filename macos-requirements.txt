@@ -2,6 +2,7 @@ MouseInfo==0.1.3
 PyAutoGUI==0.9.53
 PyGetWindow==0.0.9
 PyMsgBox==1.0.9
+pynput==1.7.3
 pyobjc==7.3
 pyobjc-core==7.3
 pyobjc-framework-Accessibility==7.3
@@ -137,3 +138,4 @@ PyRect==0.1.4
 PyScreeze==0.1.27
 PyTweening==1.0.3
 rubicon-objc==0.4.1
+six==1.16.0
